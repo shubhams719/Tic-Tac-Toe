@@ -1,0 +1,16 @@
+.table1{
+  margin-left:500px;
+}
+.cell{
+  text-align:center;
+  height:50px;
+  width: 50px;
+  margin  :-2px;
+  border:solid; 
+}
+.buton {
+height:50px;
+width: 50px;
+margin-left:560px;
+margin-top:140px;
+}
